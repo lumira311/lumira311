@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋, I'm Lumira311.
+Senior High Student  
+
+```Rust
+ let languages = vec!["rust", "cpp", "kotlin", "java", "python"];
+```
+
+Email: Lumira311@Outlook.com  
 
 <!--
 **lumira311/lumira311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
